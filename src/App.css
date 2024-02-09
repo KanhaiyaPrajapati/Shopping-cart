@@ -1,0 +1,13 @@
+.header{
+  background-color: rgb(48, 36, 36);
+}
+.flex-container {
+  display: flex;
+  flex-wrap:wrap;
+}
+.card-container {
+width: 23.5%;
+margin: 8px;
+padding-left: 10px;
+  /* Adjust the margin based on your preference */
+}
